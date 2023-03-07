@@ -9,7 +9,7 @@
   
 <br/>
   
-# 📚Tech Stack📚
+### 📚Tech Stack📚
   
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -25,9 +25,9 @@
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
   
-
+<br/>
   
-## 🛠 Tools 🛠
+### 🛠 Tools 🛠
 
 <div>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
