@@ -5,7 +5,7 @@
 <br/>
 <br/>
   
-![Visitor Count](https://profile-counter.glitch.me/{cherryddig}/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherrydding&count_bg=%23000000&title_bg=%23000000&icon=iconify.svg&icon_color=%2333FF33&title=cherrydding&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <br/>
   
