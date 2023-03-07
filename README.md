@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Cherrydding's%Github&fontSize=40&color=000000&fontColor=33ff33)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Cherrydding's Github&fontSize=40&color=000000&fontColor=33ff33)
 <br/>
 <br/>
   
